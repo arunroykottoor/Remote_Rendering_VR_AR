@@ -1,0 +1,2868 @@
+Execution time: 
+ Dequeue: 0
+ Serialize: 1
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 0
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 0
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 0
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 0
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 0
+ Serialize: 0
+ syncByte sending: 26
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 0
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 0
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 0
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 0
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 156
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 1
+
+Execution time: 
+ Dequeue: 201
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 225
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 329
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 204
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 179
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 178
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 166
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 169
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 191
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 166
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 169
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 141
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 168
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 213
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 152
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 157
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 149
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 166
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 138
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 142
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 131
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 164
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 157
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 156
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 142
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 148
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 147
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 140
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 108
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 133
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 119
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 119
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 132
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 112
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 124
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 108
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 128
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 113
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 128
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 142
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 119
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 138
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 146
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 139
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 149
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 165
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 130
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 146
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 155
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 125
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 135
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 151
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 146
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 152
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 158
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 182
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 199
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 187
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 168
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 188
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 143
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 131
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 144
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 155
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 174
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 126
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 132
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 146
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 148
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 154
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 151
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 129
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 120
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 148
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 142
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 135
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 128
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 125
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 169
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 165
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 192
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 130
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 157
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 150
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 164
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 149
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 162
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 147
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 131
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 167
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 179
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 159
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 137
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 133
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 153
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 127
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 151
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 151
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 118
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 143
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 132
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 127
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 130
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 141
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 129
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 145
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 142
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 134
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 138
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 123
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 151
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 145
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 139
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 131
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 138
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 128
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 148
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 133
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 142
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 161
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 128
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 146
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 180
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 202
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 199
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 145
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 136
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 141
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 178
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 165
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 161
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 178
+ Serialize: 1
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 183
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 175
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 173
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 174
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 142
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 174
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 169
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 161
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 146
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 139
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 139
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 134
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 157
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 137
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 139
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 158
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 144
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 159
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 175
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 165
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 182
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 167
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 166
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 132
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 142
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 127
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 127
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 143
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 134
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 132
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 140
+ Serialize: 1
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 117
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 138
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 121
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 137
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 146
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 151
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 173
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 164
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 155
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 170
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 177
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 163
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 162
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 146
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 132
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 164
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 161
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 163
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 155
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 141
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 136
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 140
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 143
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 122
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 131
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 153
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 141
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 140
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 136
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 128
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 148
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 147
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 143
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 153
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 157
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 137
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 132
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 140
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 130
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 141
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 153
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 130
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 143
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 148
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 124
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 182
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 158
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 165
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 147
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 148
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 163
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 171
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 180
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 170
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 157
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 162
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 138
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 155
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 158
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 143
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 162
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 160
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 155
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 151
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 166
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 165
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 172
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 157
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 152
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 177
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 190
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 173
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 157
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 144
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 145
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 156
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 211
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 137
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 167
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 188
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 229
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 253
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 225
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 188
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 171
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 232
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 194
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 190
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 185
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 161
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 161
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 204
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 182
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 161
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 151
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 163
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 140
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 133
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 149
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 162
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 167
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 133
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 153
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 173
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 163
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 196
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 184
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 183
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 190
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 183
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 149
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 141
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 158
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 144
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 129
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 143
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 141
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 133
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 135
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 146
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 129
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 140
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 148
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 134
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 141
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 145
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 132
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 135
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 129
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 145
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 147
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 140
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 140
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 155
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 146
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 130
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 131
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 135
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 133
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 138
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 133
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 153
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 167
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 134
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 133
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 136
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 141
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 144
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 176
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 126
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 143
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 140
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 133
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 133
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 149
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 140
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 150
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 147
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 145
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 138
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 143
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 114
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 145
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 130
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 123
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 143
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 119
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 135
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 130
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 124
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 135
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 122
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 129
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 147
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 135
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 148
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 148
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 117
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 134
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 126
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 142
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 134
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 138
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 133
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 188
+ Serialize: 1
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 155
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 146
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 154
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 150
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 146
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 158
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 151
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 135
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 128
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 143
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 133
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 130
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 158
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 127
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 142
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 135
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 141
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 147
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 149
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 128
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 130
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 159
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 151
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 163
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 151
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 123
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 144
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 143
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 134
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 135
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 125
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 131
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 134
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 136
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 138
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 143
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 127
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 132
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 148
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 115
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 139
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 151
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 135
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 139
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 148
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 143
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 139
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 146
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 124
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 144
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 0
+ encoded image: 0
+
+Execution time: 
+ Dequeue: 240
+ Serialize: 0
+ syncByte sending: 0
+ buffersize: 
